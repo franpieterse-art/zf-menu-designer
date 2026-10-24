@@ -1,3 +1,1 @@
-ZF MENU STUDIO V9 - 100 editable menu layouts
-Upload index.html and decorations.png to the root of your GitHub repository. Render Static Site: Build Command echo Ready; Publish Directory .
-Choose a menu from the left panel, then edit on the canvas. Use Uploads for your own menu background.
+ZF Menu Studio V10: 0-100% picture transparency, improved removal of source-sheet numbers and lines. Extract and upload index.html and decorations.png to the GitHub repository root. Render automatically deploys after commit. Some graphics may need manual clean PNG replacements for perfect cutouts.
