@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: zf-menu-designer
+    runtime: static
+    buildCommand: echo "Static site ready"
+    staticPublishPath: .
+    autoDeployTrigger: commit
