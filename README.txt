@@ -1,7 +1,8 @@
-ZF MENU STUDIO V15 — NEW STANDALONE APP
+ZF Menu Studio V15.1 - all 30 menu images embedded in one HTML file.
 
-Upload index.html AND the complete designs folder (30 JPG files) to the ROOT of your GitHub repo, then commit. Render Static Site publishes automatically if configured for auto-deploy. For Render, publish directory should be "." or root.
+1. Extract ZIP.
+2. Replace index.html in GitHub repository root.
+3. Commit and wait for Render deployment.
+4. Hard refresh Ctrl+F5.
 
-Features: 30 numbered-free photographic menu backgrounds, editable text, drag/resize, image upload, dish text, save/load in browser, PNG download and Print/PDF via browser.
-
-IMPORTANT: Backgrounds are individually cropped from a generated 1536×1024 contact sheet and upscaled for display; upscaling does not add true original photographic detail. BOEREKOS • TAPPAS wording in background is not editable. New text and images are editable.
+No designs folder required. No external image file paths. Full editor retained.
