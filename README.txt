@@ -1,8 +1,5 @@
-ZF Menu Studio V14 — 30 new restaurant menu designs.
+ZF Menu Studio V14.1: FIX FOR BLANK MENU PICTURES.
 
-Upload index.html and ALL 30 files in designs/ to GitHub repository root.
-Each design has no FZ MENU branding. Existing BOEREKOS • TAPPAS text remains in the background as requested.
-Customers can add and edit restaurant name, MENU, other headings, food items and prices as independent text layers.
-Small white taglines in the background are not editable.
-The number badges were removed from the 30 backgrounds.
-After deploying, Ctrl+F5 and select a new design.
+All 30 menu designs are embedded directly into index.html. Upload only index.html to the GitHub repository ROOT and commit. Do not need the designs folder.
+
+After Render deploys, press Ctrl+F5 and choose a design again.
